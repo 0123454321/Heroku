@@ -1,0 +1,14 @@
+{
+  "name": "预备役1号",
+  "description": "为任务随时准备着，有需要立把为任务执行调度",
+  "keywords": ["ready"],
+  "env": {   
+    "FLAG_VAULE": {
+       "description": "准备级别",
+       "value": "10"
+     }
+  },
+  "website": "https://github.com/0123454321/Heroku",
+  "repository": "https://github.com/0123454321/Heroku",
+  "stack": "container"
+ }
